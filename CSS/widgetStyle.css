@@ -1,0 +1,39 @@
+
+body {
+    font: 100% arial, sans-serif;
+}
+
+.sortinput {
+    margin: 10px;
+}
+
+.toolbar {
+    padding: 10px;
+}
+
+.stockvalue {
+	padding-right:20px;
+	padding-left:10px;
+
+}
+
+.companyheader{
+	padding-right:30px;
+	padding-left:10px;
+	font-weight: bold;
+}
+.priceheader{
+	padding:10px;
+	font-weight: bold;
+}
+.movementheader{
+	padding:10px;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
